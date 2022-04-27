@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#### OUTDATED ### HAS SOME GOOD CODE TO RECYCLE
+
 from nba_api.stats.endpoints import teamdashboardbylastngames
 import datetime
 from basketball_reference_scraper.seasons import get_schedule, get_standings
