@@ -1,13 +1,10 @@
-Readme:
+# NBA Game Prediction Tool
+Authors: Christian Miller, Jack Lambert, Joe Gullo, Gabe Elbing
+Project Manager: Deeksha Arun 
 
-Authors:
-Christian Miller
-Joe Gullo
-Jack Lambert
-Gabe Elbing
+## Project Overview
 
-Project Manager:
-Deeksha Arun 
+## Requirements
+- All scripts executed using Python 3.8
 
-NOTES:
-need to use python3.8 to scrape data
+## How it Works
