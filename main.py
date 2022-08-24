@@ -9,9 +9,6 @@ from sklearn import model_selection
 import torch
 import pandas as pd
 
-from google.colab import drive
-drive.mount('/content/drive')
-
 class basic_info:
     def __init__(self, home, away, closeness):
         self.home = home
