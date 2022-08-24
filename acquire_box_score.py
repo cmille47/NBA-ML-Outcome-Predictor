@@ -2,7 +2,7 @@ import basketball_reference_web_scraper
 from basketball_reference_web_scraper import client
 import pandas as pd
 import datetime
-import os
+import os 
 
 def scrape_data(start_year, start_month, start_day, end_year, end_month, end_day):  
 
